@@ -8,7 +8,7 @@ i used postman to test all the Api's
 
 
 # Database
-i used postgresql to stor the data in it
+i used postgresql to storage the data in it
 
 
 # API
