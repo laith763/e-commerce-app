@@ -3,14 +3,14 @@ API Design
 
 
 
-Testing 
+# Testing 
 i used postman to test all the Api's
 
 
-Database
+# Database
 i used postgresql to stor the data in it
 
 
-API
+# API
 i build three model the customer, order and product
 and declear all request Methods ( get , post , put , delete)
