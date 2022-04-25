@@ -7,13 +7,13 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Getter
 @Setter
+@Getter
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
 @Entity
-@Table(name ="order")
+@Table(name = "orders")
 public class Order {
     private String orderName;
     @Id
