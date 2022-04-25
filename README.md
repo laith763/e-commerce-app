@@ -1,66 +1,6 @@
 # e-commerce-app
 # API Design
-| HTTP Method | URL Path | Status Code | Description |
-|:........:|:.......:|:.........:|:.......:|
-| GET | api/v0/customers | 200(Ok) | Get all the customers |
-GET
-api/v0/customers/{id}
-200(Ok)
-Get customer by id
-POST
-api/v0/customers
-200(created)
-Add a new customer
-PUT
-api/v0/customers/{id}
-200(Ok)
-Update customer info
-DELETE
-api/v0/customers/{id}
-200(Ok)
-Delete customer by id
-GET
-api/v0/orders
-200(Ok)
-Get all the orders
-GET
-api/v0/orders/{id}
-200(Ok)
-Get order by id
-POST
-api/v0/orders
-200(Created)
-Add a new order
-PUT
-api/v0/orders/{id}
-200(ok)
-Update order info
-DELETE
-api/v0/orders/{id}
-200(Ok)
-Delete order by id
-GET
-api/v0/products
-200(Ok)
-Get all the products 
-GET
-api/v0/products
-200(Ok)
-Get product by id
-POST
-api/v0/products
-200(Created)
-Add a new product
-PUT
-api/v0/products/{id}
-200(Ok)
-Update product by id
-DELETE
-api/v0/products/{id}
-200(Ok)
-Delete product by id
-
-
+<img width="638" alt="Screen Shot 2022-04-26 at 12 18 56 AM" src="https://user-images.githubusercontent.com/81861451/165178257-d1b84241-68f5-4d66-99ea-dfe0edeb0710.png">
 
 
 
