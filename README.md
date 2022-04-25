@@ -1,13 +1,8 @@
 # e-commerce-app
 # API Design
-HTTP Method
-URL Path
-Status Code
-Description
-GET
-api/v0/customers
-200(Ok)
-Get all the customers
+| HTTP Method | URL Path | Status Code | Description |
+|:........:|:.......:|:.........:|:.......:|
+| GET | api/v0/customers | 200(Ok) | Get all the customers |
 GET
 api/v0/customers/{id}
 200(Ok)
