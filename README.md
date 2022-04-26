@@ -14,4 +14,5 @@ i used postgresql to storage the data in it
 
 # API
 i build three model the customer, order and product
-and declear all request Methods ( get , post , put , delete)
+and declear all request Methods ( get , post , put , delete), For each one I have added a controller, dto, path costantis, entity, repository, service Impl, and a service intrface.
+the best practices to add the end points is to add it into class, and this allowed you to manage it easy and an efficient way.
